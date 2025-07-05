@@ -1,0 +1,227 @@
+{
+  "status": "ok",
+  "totalResults": 46,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Meet the Highest Paid Information Technology Executives of 2024 - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/articles/meet-the-highest-paid-information-technology-executives-of-2024-ff831e7b",
+      "urlToImage": null,
+      "publishedAt": "2025-07-01T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Barbara Kollmeyer",
+      "title": "Why out-of-favor Apple holds the key to tech stocks in the coming weeks - MarketWatch",
+      "description": "Fundstrat’s Mark Newton is watching Apple’s moves closely",
+      "url": "https://www.marketwatch.com/story/why-out-of-favor-apple-holds-the-key-to-tech-stocks-in-the-coming-weeks-baa32371",
+      "urlToImage": "https://images.mktw.net/im-00277129/social",
+      "publishedAt": "2025-07-01T10:40:00Z",
+      "content": "Following two straight record-busting sessions for the S&amp;P 500 \r\nSPX and Nasdaq COMP, the new quarter and second half looks ready to kick off with some losses. Granted its an event-filled, holida… [+141 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Cloudflare will now block AI crawlers by default - The Verge",
+      "description": "Cloudflare has announced that it will now block AI web crawlers by default for new customers. It’s also introducing a new “Pay Per Crawl” fee that will let some publishers make AI companies pay to scrape their content.",
+      "url": "https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKB326_CLOUDFLARE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-01T10:00:00Z",
+      "content": "The internet architecture provider will also let some publishers make known AI scrapers pay to crawl their sites.\r\nThe major internet architecture provider Cloudflare will now block known AI web craw… [+2569 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "The Battle to Keep Consumers Means Smaller Packs of Cookies and Chips - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/articles/the-battle-to-keep-consumers-means-smaller-packs-of-cookies-and-chips-744ff287",
+      "urlToImage": null,
+      "publishedAt": "2025-07-01T10:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Ben Geman, Zachary Basu",
+      "title": "Trump's clean-energy grenade rattles high-tech industries - Axios",
+      "description": "Critics say Trump's megabill amounts an abject surrender in the battle for the future of energy.",
+      "url": "https://www.axios.com/2025/07/01/trump-clean-energy-tax-credits-renewables",
+      "urlToImage": "https://images.axios.com/4fjSVAVoIk2RVVSMUWZCGvexByg=/0x0:1280x720/1366x768/2025/06/30/1751324651153.jpg",
+      "publishedAt": "2025-07-01T09:55:24Z",
+      "content": "\u003Cul\u003E\u003Cli\u003EThe \"One, Big, Beautiful Bill Act,\" which would gut key Biden-era clean energy subsidies and potentially impose new taxes on solar and wind projects, could reach Trump's desk as soon as this … [+5033 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "The Tech-Stock Bargains Hiding in Nvidia’s Shadow - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/the-tech-stock-bargains-hiding-in-nvidias-shadow-4612e522",
+      "urlToImage": null,
+      "publishedAt": "2025-07-01T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "fingerlakes1.com"
+      },
+      "author": "Digital Team",
+      "title": "Social Security Payment Cuts Hit in July: Some Will See 50% Smaller Checks - Fingerlakes1.com",
+      "description": "Social Security recipients across the U.S. will be seeing reduced July 2025 payments. Here’s who is affected, why it’s happening, and how to appeal.",
+      "url": "https://www.fingerlakes1.com/2025/06/30/social-security-jpayment-cuts-july-2025-5698582/",
+      "urlToImage": "https://www.fingerlakes1.com/wp-content/uploads/2025/06/social_security_grocery_couple.webp",
+      "publishedAt": "2025-07-01T02:53:14Z",
+      "content": "Millions of Social Security recipients are waking up to smaller payments this July and for many, the cuts came with little warning.\r\nThe reason? The Social Security Administration (SSA) is aggressive… [+4638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Dow Jones Futures: S&P 500 Hits Record High; Palantir Rebounds As Tesla Deliveries Loom - Investor's Business Daily",
+      "description": "Amazon, Apple, Palantir, Robinhood and Palantir were key movers Monday.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-tsla-q2-deliveries/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/11/Stock-wallstreetnyseflag-30-shutt.jpg",
+      "publishedAt": "2025-07-01T02:05:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tipranks.com"
+      },
+      "author": "Ben Yoffe",
+      "title": "Air India Crash Fails to Ground Boeing Stock’s New Street-High Price Target - TipRanks",
+      "description": "Aerospace stock Boeing ($BA) is once again under intense scrutiny after tragedy struck on June 12, when Air India Flight 171 – a Boeing 787 Dreamliner – crashed int...",
+      "url": "https://www.tipranks.com/news/air-india-crash-fails-to-ground-boeing-stocks-new-street-high-price-target",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/04/boeing-shutterstock_2420198473-750x406.jpg",
+      "publishedAt": "2025-07-01T00:54:28Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Trump vents online about service provider after conference call marred by glitch - AP News",
+      "description": "President Donald Trump is complaining about technical difficulties he experienced while trying to hold a conference call with faith leaders across the country. On Monday afternoon, Trump blasted AT&T in a pair of posts on Truth Social, accusing the company of…",
+      "url": "https://apnews.com/article/trump-att-call-customer-service-social-media-3e17726d2a94c8401ec4af8757e9f57f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/20e3e43/2147483647/strip/true/crop/5851x3291+0+305/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F02%2F02%2Ff821382c2e51ed7c3a22a1d84f1d%2F6f31f1230c4b491d8c2894a3a9609816",
+      "publishedAt": "2025-07-01T00:51:00Z",
+      "content": "WASHINGTON (AP) On Monday afternoon, the president of the United States was just another person complaining online about his service provider.\r\nDonald Trump wrote in a pair of posts on Truth Social t… [+2037 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "In a blow to Milei, a US judge orders Argentina to turn over its majority stake in state oil company - AP News",
+      "description": "The fate of Argentina’s state-run oil company has been thrown into doubt as a U.S. judge ordered the cash-strapped country to give up its 51% controlling stake in YPF. That's meant to be partial compensation for seizing the shares of former investors during i…",
+      "url": "https://apnews.com/article/argentina-us-oil-gas-energy-ypf-judgement-8f2937655b3679ad2590fb5d53542ca4",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dfbe95f/2147483647/strip/true/crop/4903x2758+0+237/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8d%2F40%2F4b6ca67fe32e7a16612c04e5404d%2Ff08f080620a64270a5a6ce38c0113f20",
+      "publishedAt": "2025-07-01T00:00:00Z",
+      "content": "BUENOS AIRES, Argentina (AP) The fate of Argentinas state-run oil company was thrown into doubt Monday as a U.S. judge ordered the cash-strapped country to give up its 51% controlling stake in YPF in… [+3135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "TheStreet",
+      "title": "Veteran analyst updates S&P 500 prediction after record rally - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/markets/veteran-analyst-updates-s-p-500-prediction-after-record-rally",
+      "urlToImage": null,
+      "publishedAt": "2025-06-30T23:17:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Elyse Wanshel",
+      "title": "Charlize Theron Uses 1 Harsh Word To Describe Jeff Bezos And His Wedding Guests - HuffPost",
+      "description": "Guests at the Amazon founder’s Venice wedding included Oprah Winfrey, Kim Kardashian, Ivanka Trump and Leonardo DiCaprio.",
+      "url": "https://www.huffpost.com/entry/charlize-theron-uses-1-harash-word-to-describe-jeff-bezos-and-his-wedding-guests_n_6862e8e0e4b02e5da2069204",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6862ed15190000cad6248b97.jpeg?cache=CCLEEtHCoc&ops=1200_630",
+      "publishedAt": "2025-06-30T23:08:03Z",
+      "content": "We didnt know the next installment in the Mad Max franchise was Furiosa vs. the Broligarchy.\r\nCharlize Theron kicked off her fifth annual block party for her Charlize Theron Africa Outreach Project w… [+4601 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Sharon Goldman",
+      "title": "Mark Zuckerberg overhauled Meta's entire AI org in a risky, multi-billion dollar bet on 'superintelligence' - Fortune",
+      "description": "Helmed by Alexandr Wang, Meta's newly created Superintelligence Labs unifies the company's sprawling AI efforts and raises the stakes for rival AI firms.",
+      "url": "https://fortune.com/2025/06/30/mark-zuckerberg-overhauled-meta-ai-org-superintelligence-alexandr-wang/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/06/Zuckerberg-and-Wang.jpg?resize=1200,600",
+      "publishedAt": "2025-06-30T22:13:00Z",
+      "content": "Mark Zuckerberg is stacking the deck in the AI race, betting that unlimited capital, top talent, and raw computing power will ensure victory. If the winning hand Zuckerberg is chasingAI superintellig… [+5157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": null,
+      "title": "Oracle wins cloud contract expected to generate $30B+ in annual revenue - SiliconANGLE",
+      "description": "Oracle wins cloud contract expected to generate $30B+ in annual revenue - SiliconANGLE",
+      "url": "https://siliconangle.com/2025/06/30/oracle-wins-cloud-contract-expected-generate-30b-annual-revenue/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/06/oracle.png",
+      "publishedAt": "2025-06-30T21:54:23Z",
+      "content": "Oracle Corp. today disclosed that it has won a cloud contract worth more than $30 billion annually.\r\nShares of the company jumped almost 9% on the news at one point. It ended the trading session up 4… [+3962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InsideEVs "
+      },
+      "author": "Tim Levin",
+      "title": "‘The Most Humbling Thing I’ve Ever Seen’: Ford CEO On China’s Car Industry - InsideEVs",
+      "description": "Ford CEO Jim Farley said Chinese cars have \"far superior\" technology, lower costs and great quality.",
+      "url": "https://insideevs.com/news/764318/ford-ceo-china-evs-humbled/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/nAqx4o/s1/xiaomi-store.jpg",
+      "publishedAt": "2025-06-30T21:21:00Z",
+      "content": "\u003Cul\u003E\u003Cli\u003EChina has become a global EV powerhouse in recent years. \u003C/li\u003E\u003Cli\u003EFord CEO Jim Farley said visiting the country was \"the most humbling thing.\"\u003C/li\u003E\u003Cli\u003EHe praised the technology, cost and qual… [+4630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Frances Yue, Myra P. Saefong, Isabel Wang, William Watts, Christine Idzelis, Jules Rimmer, Steve Goldstein, Joseph Adinolfi, Jamie Chisholm, Barbara Kollmeyer",
+      "title": "Stock Market News June 30, 2025: Dow ends 275 points higher; S&P 500 and Nasdaq set records on optimism around trade deals - MarketWatch",
+      "description": "Investors kick off a holiday-shortened week with the S&P 500 and Nasdaq pushing further into record territory. Trade talks, tax and spending legislation, and jobs data are calling the tune.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-set-for-250-point-rise-s-p-500-and-nasdaq-could-hit-new-records",
+      "urlToImage": "https://images.mktw.net/im-38241643/social",
+      "publishedAt": "2025-06-30T20:39:00Z",
+      "content": null
+    }
+  ]
+}
